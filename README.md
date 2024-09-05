@@ -4,7 +4,7 @@ My Reactfolio is a personal portfolio website built with React. It is a forked v
 
 ## View Hosted Portfolio
 
-You can view my hosted portfolio website at [https://sumanthreddy.co](https://sumanthreddy.co).
+You can view my hosted portfolio website at [https://amoghavarsharao.me](https://amoghavarsharao.me).
 
 ## Features
 
