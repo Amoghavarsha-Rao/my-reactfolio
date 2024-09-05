@@ -15,11 +15,11 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src={process.env.PUBLIC_URL + "/usbank.jpg"}
-								alt="usbank"
+								src={process.env.PUBLIC_URL + "/KTech Logo.png"}
+								alt="KTech Logo"
 								className="work-image"
 							/>
-							<div className="work-title">U.S. Bank</div>
+							<div className="work-title">KTech Products LLC.</div>
 						</div>
 						<div className="work-details-container">
 							<div className="work-subtitle">

@@ -14,7 +14,7 @@ const Logo = (props) => {
 
 	const imageElement = (
 		<img
-			src={process.env.PUBLIC_URL + "/logo.png"}
+			src={process.env.PUBLIC_URL + "/avatar.png"}
 			alt="logo"
 			className="logo"
 			width={width}

@@ -14,30 +14,34 @@ const defaultbgColor = "141414";
 
 const INFO = {
 	main: {
-		title: "Sumanth Chinnaobireddy",
-		name: "Tharindu N.",
-		email: "sumanthcob@gmail.com",
-		logo: "../logo.png",
+		title: "Amoghavarsha Rao",
+		name: "Amoghavarsha Rao",
+		email: "amoghavarsharao99@gmail.com",
+		logo: "../avatar.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/rumanstheddy",
-		linkedin: "https://www.linkedin.com/in/sumanthcob/",
+		github: "https://github.com/Amoghavarsha-Rao",
+		linkedin: "https://www.linkedin.com/in/amoghavarsharao/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Sumanth Chinnaobireddy",
-		description:
-			"I'm a Software Developer specializing in React.js and Node.js. Proficient in crafting scalable, secure, and dependable web applications, I leverage various frameworks and technologies. I thrive on tackling intricate challenges and acquiring new skills. My passion lies in producing high-quality code adhering to best practices and industry standards. Eager for fresh challenges, I continually seek opportunities to enhance my skills and evolve as a developer.",
-	},
+		title: "Hi! I'm Amogh!",
+		description1:
+			"Welcome to my professional portfolio! I am a student currently pursuing a Master’s degree in Business Analytics at UT Dallas. My experience includes developing software solutions to enhance system efficiency and optimizing data pipelines for faster processing.",
+		description2:
+			"My core competencies lie in Python, PySpark, SQL, and cloud tools like Azure Synapse and Power BI, and I hold certifications in Applied Machine Learning and Google Data Analytics. I have also led projects focused on analyzing large datasets and creating dynamic databases to uncover actionable insights.",
+			description3:
+			"Please feel free to look around, I’d always be interested in hearing any thoughts or suggestions!",
+		},
 	about: {
 		title: "Career Path",
 		description:
-			"Dive into my journey – from academic milestones to professional endeavours. Discover my story in a resumé format.",
+			"My journey – from academic milestones to professional endeavours.",
 		download: {
 			link: "https://dl.dropboxusercontent.com/scl/fi/piecj287psmll1hq3z77c/Resume2024-8.pdf?rlkey=l6tb15nseflk0ms9kh2dmuhts&st=io6fpnqy&dl=0",
 			title: "My Resumé",
@@ -53,7 +57,7 @@ const INFO = {
 	projects: {
 		title: "My Projects",
 		description:
-			"I've been involved in diverse projects throughout my career, and I take pride in the strides we've made. If any of these projects catch your interest, explore the code and share any suggestions for improvements or enhancements. Collaboration is a fantastic opportunity for learning and development, and I welcome new ideas and feedback with open arms. Feel free to connect and share your insights!",
+			"A few projects that I've worked on over the years, each project highlights my approach to addressing various challenges utilizing various technologies and providing meaningful insights.",
 		list: [
 			{
 				title: "Textful",
