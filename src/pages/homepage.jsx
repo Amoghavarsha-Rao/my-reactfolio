@@ -138,7 +138,7 @@ const Homepage = () => {
 								<div className="subtitle homepage-subtitle">
 									<p>{INFO.homepage.description1}</p>
 									<p>{INFO.homepage.description2}</p>
-									<p>{INFO.homepage.description3}</p>
+									<p>{INFO.homepage.description3}</p>	
 								</div>
 								<div className="homepage-socials">
 									{/* <a
