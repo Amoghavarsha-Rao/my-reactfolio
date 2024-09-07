@@ -77,7 +77,7 @@ const TotalExperience = () => {
 								Software Development and Data Engineering intern
 							</div>
 							<div className="work-duration">
-								August 2023 - Present
+								August 2024 - Present
 							</div>
 						</div>
 
