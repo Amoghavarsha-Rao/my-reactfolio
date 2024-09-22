@@ -57,96 +57,118 @@ const INFO = {
 	projects: {
 		title: "My Projects",
 		description:
-			"A few projects that I've worked on over the years, each project highlights my approach to addressing various challenges utilizing various technologies and providing meaningful insights.",
+			"This section is still being updated, please watch this space 😁",
+			
 		list: [
 			{
-				title: "Textful",
+				title: "ML and Analytics Projects",
 				description:
-					"Textful is a web-based application, made using React, Node.js and MongoDb that enables its users to exchange text messages directly.",
+					"A host of Machine Learning Projects with my insights and inferences",
 				tech: [
-					buildImgShieldLink("JavaScript", defaultbgColor, "F7DF1E"),
-					buildImgShieldLink("React", defaultbgColor, "61DAFB"),
-					buildImgShieldLink("MongoDB", defaultbgColor, "47A248"),
-					buildImgShieldLink("CSS3", defaultbgColor, "1572B6"),
-					buildImgShieldLink(
-						"NodeJS",
-						defaultbgColor,
-						"339933",
-						"node.js"
-					),
-					buildImgShieldLink("Express", defaultbgColor, "FFFFFF"),
+					buildImgShieldLink("Python", defaultbgColor, "F7DF1E"),
+					// buildImgShieldLink("JavaScript", defaultbgColor, "F7DF1E"),
+					// buildImgShieldLink("React", defaultbgColor, "61DAFB"),
+					// buildImgShieldLink("MongoDB", defaultbgColor, "47A248"),
+					// buildImgShieldLink("CSS3", defaultbgColor, "1572B6"),
+					// buildImgShieldLink(
+					// 	"NodeJS",
+					// 	defaultbgColor,
+					// 	"339933",
+					// 	"node.js"
+					// ),
+					// buildImgShieldLink("Express", defaultbgColor, "FFFFFF"),
 				],
 				linkText: "View Project",
-				link: "https://github.com/rumanstheddy/project-textful",
+				link: "https://github.com/Amoghavarsha-Rao/ML-DA-Projects",
 			},
+			// {
+			// 	title: "Textful",
+			// 	description:
+			// 		"Textful is a web-based application, made using React, Node.js and MongoDb that enables its users to exchange text messages directly.",
+			// 	tech: [
+			// 		buildImgShieldLink("JavaScript", defaultbgColor, "F7DF1E"),
+			// 		buildImgShieldLink("React", defaultbgColor, "61DAFB"),
+			// 		buildImgShieldLink("MongoDB", defaultbgColor, "47A248"),
+			// 		buildImgShieldLink("CSS3", defaultbgColor, "1572B6"),
+			// 		buildImgShieldLink(
+			// 			"NodeJS",
+			// 			defaultbgColor,
+			// 			"339933",
+			// 			"node.js"
+			// 		),
+			// 		buildImgShieldLink("Express", defaultbgColor, "FFFFFF"),
+			// 	],
+			// 	linkText: "View Project",
+			// 	link: "https://github.com/rumanstheddy/project-textful",
+			// },
 
-			{
-				title: "Playscore Pal",
-				description:
-					"Playscore Pal is a web-based platform built with Next.js, Node.js, Express, GraphQL, and MongoDB, utilizing the IGDB API. It empowers users to rate, review, and recommend games.",
-				tech: [
-					buildImgShieldLink("Typescript", defaultbgColor, "3178C6"),
-					buildImgShieldLink(
-						"Next.js",
-						defaultbgColor,
-						"FFFFFF",
-						"next.js"
-					),
-					buildImgShieldLink("MongoDB", defaultbgColor, "47A248"),
-					buildImgShieldLink("GraphQL", defaultbgColor, "DA0393"),
-					buildImgShieldLink(
-						"Tailwind CSS",
-						defaultbgColor,
-						"06B6D4"
-					),
-					buildImgShieldLink(
-						"NodeJS",
-						defaultbgColor,
-						"339933",
-						"node.js"
-					),
-				],
-				linkText: "View Project",
-				link: "https://github.com/rumanstheddy/ss-play-score-pal",
-			},
+			// {
+			// 	title: "Playscore Pal",
+			// 	description:
+			// 		"Playscore Pal is a web-based platform built with Next.js, Node.js, Express, GraphQL, and MongoDB, utilizing the IGDB API. It empowers users to rate, review, and recommend games.",
+			// 	tech: [
+			// 		buildImgShieldLink("Typescript", defaultbgColor, "3178C6"),
+			// 		buildImgShieldLink(
+			// 			"Next.js",
+			// 			defaultbgColor,
+			// 			"FFFFFF",
+			// 			"next.js"
+			// 		),
+			// 		buildImgShieldLink("MongoDB", defaultbgColor, "47A248"),
+			// 		buildImgShieldLink("GraphQL", defaultbgColor, "DA0393"),
+			// 		buildImgShieldLink(
+			// 			"Tailwind CSS",
+			// 			defaultbgColor,
+			// 			"06B6D4"
+			// 		),
+			// 		buildImgShieldLink(
+			// 			"NodeJS",
+			// 			defaultbgColor,
+			// 			"339933",
+			// 			"node.js"
+			// 		),
+			// 	],
+			// 	linkText: "View Project",
+			// 	link: "https://github.com/rumanstheddy/ss-play-score-pal",
+			// },
 
-			{
-				title: "Meteoscope",
-				description:
-					"Meteoscope is a weather forecast app I made using React, Chakra UI and Open Meteo API.",
-				tech: [
-					buildImgShieldLink("JavaScript", defaultbgColor, "F7DF1E"),
-					buildImgShieldLink("React", defaultbgColor, "61DAFB"),
-					buildImgShieldLink("chakra--ui", defaultbgColor, "67C9CB"),
-					buildImgShieldLink(
-						"NodeJS",
-						defaultbgColor,
-						"339933",
-						"node.js"
-					),
-				],
-				linkText: "View Project",
-				link: "https://github.com/rumanstheddy/meteoscope",
-			},
+			// {
+			// 	title: "Meteoscope",
+			// 	description:
+			// 		"Meteoscope is a weather forecast app I made using React, Chakra UI and Open Meteo API.",
+			// 	tech: [
+			// 		buildImgShieldLink("JavaScript", defaultbgColor, "F7DF1E"),
+			// 		buildImgShieldLink("React", defaultbgColor, "61DAFB"),
+			// 		buildImgShieldLink("chakra--ui", defaultbgColor, "67C9CB"),
+			// 		buildImgShieldLink(
+			// 			"NodeJS",
+			// 			defaultbgColor,
+			// 			"339933",
+			// 			"node.js"
+			// 		),
+			// 	],
+			// 	linkText: "View Project",
+			// 	link: "https://github.com/rumanstheddy/meteoscope",
+			// },
 
-			{
-				title: "AngularChrono",
-				description:
-					"Exploring Angular basics and SASS, I built a hands-on mobile-responsive Stop Watch web app.",
-				tech: [
-					buildImgShieldLink("Angular", defaultbgColor, "D70230"),
-					buildImgShieldLink("Typescript", defaultbgColor, "3178C6"),
-					buildImgShieldLink("Sass", defaultbgColor, "CC6699"),
-					buildImgShieldLink(
-						"NodeJS",
-						defaultbgColor,
-						"339933",
-						"node.js"
-					),
-				],
-				linkText: "View Project",
-				link: "https://github.com/rumanstheddy/Ang-Stop-Watch",
-			},
+			// {
+			// 	title: "AngularChrono",
+			// 	description:
+			// 		"Exploring Angular basics and SASS, I built a hands-on mobile-responsive Stop Watch web app.",
+			// 	tech: [
+			// 		buildImgShieldLink("Angular", defaultbgColor, "D70230"),
+			// 		buildImgShieldLink("Typescript", defaultbgColor, "3178C6"),
+			// 		buildImgShieldLink("Sass", defaultbgColor, "CC6699"),
+			// 		buildImgShieldLink(
+			// 			"NodeJS",
+			// 			defaultbgColor,
+			// 			"339933",
+			// 			"node.js"
+			// 		),
+			// 	],
+			// 	linkText: "View Project",
+			// 	link: "https://github.com/rumanstheddy/Ang-Stop-Watch",
+			// },
 		],
 	},
 };
