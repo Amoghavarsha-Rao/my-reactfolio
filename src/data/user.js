@@ -43,7 +43,7 @@ const INFO = {
 		description:
 			"My journey – from academic milestones to professional endeavours.",
 		download: {
-			link: "https://dl.dropboxusercontent.com/scl/fi/piecj287psmll1hq3z77c/Resume2024-8.pdf?rlkey=l6tb15nseflk0ms9kh2dmuhts&st=io6fpnqy&dl=0",
+			link: "https://www.dropbox.com/scl/fi/8nyhos4br0aac9o6mjdhn/Amogh-Resume.pdf?rlkey=pkt0vrgxy4ele7k9jz6iuo6ui&st=et5kngoc&dl=0",
 			title: "My Resumé",
 		},
 	},
