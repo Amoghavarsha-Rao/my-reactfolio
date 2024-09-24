@@ -28,7 +28,7 @@ const TotalExperience = () => {
 						</div>
 						<div className="work-details-container">
 							<div className="work-subtitle">
-								Master of Science - Computer Science
+								Master of Science - Business Analytics and AI
 							</div>
 							<div className="work-duration">
 								January 2023 - Present
